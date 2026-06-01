@@ -4,7 +4,7 @@
 
 // ── Configuration ──
 // Replace this URL with your deployed Google Apps Script Web App URL.
-const ENDPOINT_URL = "YOUR_URL_HERE";
+const ENDPOINT_URL = "https://script.google.com/macros/s/AKfycbwv0OaA8ZHi0GgFX-GY4hzjAf68krhJQ_swKS9Go754UPxm4pZNVym3T-Tqp9oiJD_x/exec";
 
 document.addEventListener("DOMContentLoaded", () => {
   'use strict';
